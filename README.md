@@ -14,7 +14,7 @@ A data-driven professional with experience in developing intelligent systems and
 
 ## 🧠 Technical Skills
 
-- **Programming & Frameworks**: Python, R, Java (JDK11), Spring Boot, Angular (v14), MySQL  
+- *Programming & Frameworks*: Python, R, Java (JDK11), Spring Boot, Angular (v14), MySQL  
 - **Data & Analytics**: Pandas, NumPy, Scikit-learn, PyTorch, A/B Testing, Regression, Classification, Time Series  
 - **Cloud Services, DevOps & Big Data**: AWS (Lambda, S3, CloudWatch), Jenkins, Agile & Jira, Snowflake, BigQuery, Databricks, Spark  
 - **Visualization & Tools**: Tableau, Power BI, Excel (Pivot Tables, Power Query), Git, GitLab, Jupyter, VSCode, MLflow, DBT  

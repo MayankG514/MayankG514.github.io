@@ -1,1 +1,2 @@
-# Data Scientist
+# Data Scientist | Full-Stack Developer
+

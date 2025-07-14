@@ -1,5 +1,4 @@
-# Mayank Grover
-## **Data Scientist** | **Full Stack Developer** | **Healthcare & AI Researcher** 
+# **Data Scientist** | **Full Stack Developer** | **Healthcare & AI Researcher** 
 📧 mayankgrover715@gmail.com | [LinkedIn](https://www.linkedin.com/in/mayankgrover-1999/) | [GitHub](https://github.com/MayankG514)
 
 ---
